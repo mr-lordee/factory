@@ -1,0 +1,19 @@
+{
+    "name": "mrlordee/factory",
+    "description": "Simple php framework",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Konstantin Holoshchapov",
+            "email": "mr.lordee@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Factory\\": "src/Factory/"
+        }
+    }
+}
