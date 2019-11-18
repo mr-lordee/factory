@@ -1,7 +1,7 @@
 {
     "name": "mr-lordee/factory",
     "description": "Simple php framework",
-    "type": "composer-plugin",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
